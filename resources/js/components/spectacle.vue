@@ -85,6 +85,7 @@ const deleteSpectacle = async (id) => {
     } catch (error) {
         console.error(error);
     }
+
 };
 </script>
 
